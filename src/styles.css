@@ -3,6 +3,7 @@ body {
     background: #272044;
 }
 
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -36,7 +37,11 @@ body {
 
 .embed {
     width: 100%;
-    aspect-ratio: 1/1;
+    aspect-ratio: 4/3;
+}
+
+.youtube-embeds {
+    margin: 30px 0;
 }
 
 .card {
